@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOG HOUND</title>
+    <meta name="describption" content=" Our objective is to bring out the best in nature and serve them to you at the best quality.Pups bred from the finest parents breeds of both foriegn and local breds of the rarest and finest dog breeds all over the continent.The concept was found and fully sponsed by THE PROTOGEI INTERLETIVE {IPC}">
+    <style>
+        html{height: 100%;}
+
+
+
+body{
+    background-color: rgb(12, 12, 12);margin-left: auto;margin-right: auto;
+    background-image: url(Images/Dog_main.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.content{margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    }
+header{height: 100px;
+text-align: center;padding-left: 150px;padding-right: 150px; }
+p1{color: rgb(0, 253, 240);text-decoration:underline;font-size: 60px;}
+.clone{color: rgb(255, 255, 255);font-size: 27px;font-style: italic;}
+nav{background-color: rgba(0, 0, 0, 0.377);
+    text-align: center; padding-top: 12px;padding-bottom: 12px;
+}
+main{height: 320px; text-align: center; background-color: rgba(0, 0, 0, 0.397);
+padding-left: 185px;padding-right: 275px; 
+}
+footer{background-color: rgba(0, 0, 0, 0.562);
+padding-top: 4px;padding-bottom: 4spx;
+}
+h1{font-size: 70px;
+color: rgb(240, 233, 233);
+font-family: Cambria, Cochin, 'Georgia', 'Times', 'Times New Roman', 'sans-serif';}
+p2{font-size: 20px; color: rgb(220, 220, 231);
+font-family: Calibri, 'Trebuchet MS', sans-serif;}
+a{
+    color: rgb(0, 253, 241);font-size: 35px;font-family:Calibri, 'Trebuchet MS', sans-serif;
+text-decoration: underline;
+}
+nav a{
+    text-decoration: none;color: antiquewhite;
+    font-size: 17px;
+    padding-left: 20px;padding-right: 20px;
+}
+h4{color: white; font-size: 25px;margin-bottom: 3px;}
+p4{color: aliceblue;font-size: 15px;}
+iframe{padding-bottom: 35px;}
+    </style>
+</head>
+<body>
+<div class="content">
+    <center>
+<header><b>
+    <p1>PROTOGIE INTERLECT</p1>
+    <p2 class="clone">COLLECTIVE KNOWLEDGE</p2></b>
+</header>
+    <nav>
+        <a href="#">HOME</a>
+        <a href="https://chat.whatsapp.com/IF8ot2LmI1F0G3M4ndauey">CONTACT</a>
+        <a href="https://www.google.com/search?q/foriegnbreedsdogs" method="get">MORE</a>
+        <a href="file:///C:/Users/THIS%20PC/Documents/Developer/PROGRAM-2/page2.html">BREDS</a>
+        <a href="#">GIFT VOUCHER</a>
+        <a href="https://chat.whatsapp.com/IF8ot2LmI1F0G3M4ndauey">ORDER ONLINE</a>
+    </nav>
+    <main><h1>Dog Hound</h1>
+    <p2>We at DOG HOUND work hard to bring to you the best in all breeds of dog. Our objective is to bring out the best in nature and serve them to you at the best quality.Pups bred from the finest parents breeds of the rarest and finest dog breeds all over the continent.The concept was found and fully sponsed by THE PROTOGEI INTERLETIVE.</p2>
+    <a href="file:///C:/Users/THIS%20PC/Documents/Developer/PROGRAM-2/page2.html">SEE MORE</a>
+</main>
+<section>
+    <iframe width="510" height="350" src="https://www.youtube.com/embed/EMgFoNuheWE?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="510" height="350" src="https://www.youtube.com/embed/dNIESLdsjQ0?start=15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+    <footer>
+        <h4>THE SECURE WAY OF LIFE</h4>
+        <p4>copyright by PROTOGEI INTERLETIVE programs2023@ | ALL RIGHTS RESERVED</p4>
+    </footer>
+</center>
+</div>
+</body>
+</html> 
